@@ -23,7 +23,4 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Update README with GitHub Stats
-        uses: anmol098/generate-readme@v2.0.3
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  

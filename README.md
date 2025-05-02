@@ -9,18 +9,5 @@
 <a href="https://github.com/zainkhan1994">
   🚀<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=material-palenight" />
 </a><br>
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to manually trigger the workflow
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
 
   

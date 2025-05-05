@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/genai-kb/main/banner.png" width="100%" />
+</p>
+
+
 ## 🚀 GitHub Stats & Activity
 
 <table>

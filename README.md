@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/genai-kb/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/zainkhan1994/genai-kb/main/banner.png" width="100%" />
 </p>
 
-
 ## 🚀 GitHub Stats & Activity
+
+[![Profile Views](https://komarev.com/ghpvc/?username=zainkhan1994&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/zainkhan1994)
 
 <table>
   <tr>
@@ -23,7 +24,6 @@
 
 ---
 
-
 ### 📬 Email Accounts
 <p align="left">
   <img src="https://img.shields.io/badge/Apple%20ID-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -39,5 +39,3 @@
   <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoft-onedrive&logoColor=white" />
   <img src="https://img.shields.io/badge/SharePoint-03787C?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
-
-

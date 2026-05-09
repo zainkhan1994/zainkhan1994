@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,35:0f172a,70:312e81,100:06b6d4&text=ZAIN%20KHAN&fontColor=e0f2fe&fontSize=42&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020617,35:0f172a,70:312e81,100:06b6d4&text=ZAIN%20KHAN&fontColor=e0f2fe&fontSize=38&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Systems+Builder;Business+Consultant;Designing+smart+systems+for+work+and+life;Building+tools%2C+workflows%2C+and+automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;Business+Consultant;Building+simple+systems+for+work+and+life;Tools%2C+workflows%2C+automation" />
 
 <br/><br/>
 
@@ -17,11 +16,11 @@
 
 ---
 
-# ABOUT
+## ABOUT
 
-I build systems that help people organize information, automate work, and scale ideas.
+I build simple systems that help people organize information, automate work, and turn ideas into action.
 
-My focus is on:
+I focus on:
 
 - AI workflows
 - Knowledge systems
@@ -29,45 +28,40 @@ My focus is on:
 - Consulting operations
 - Digital infrastructure
 
-I enjoy turning complicated processes into simple systems that are easier to manage and grow.
-
 ---
 
-# OPERATING SYSTEM
+## OPERATING SYSTEM
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### THINK
-
-Research  
-Strategy  
-Systems thinking  
-Problem solving  
-Planning  
-
-</td>
-<td width="33%" align="center">
-
-### BUILD
-
-AI tools  
-Dashboards  
-Automations  
-Knowledge bases  
-Workflows  
+<b>01 / THINK</b><br><br>
+Research<br>
+Strategy<br>
+Planning<br>
+Problem solving<br>
+Systems thinking
 
 </td>
 <td width="33%" align="center">
 
-### SCALE
+<b>02 / BUILD</b><br><br>
+AI tools<br>
+Dashboards<br>
+Automations<br>
+Knowledge bases<br>
+Workflows
 
-Operations  
-Content systems  
-Consulting systems  
-Communities  
-Growth systems  
+</td>
+<td width="33%" align="center">
+
+<b>03 / SCALE</b><br><br>
+Operations<br>
+Content systems<br>
+Consulting systems<br>
+Communities<br>
+Growth systems
 
 </td>
 </tr>
@@ -75,46 +69,42 @@ Growth systems
 
 ---
 
-# BUILD AREAS
+## BUILD AREAS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AI SYSTEMS
+<b>AI SYSTEMS</b><br><br>
+AI assistants<br>
+Prompt systems<br>
+Workflow automation<br>
+AI research tools<br>
+Human + AI collaboration<br><br>
 
-- AI assistants
-- Prompt systems
-- Workflow automation
-- AI research tools
-- Human + AI collaboration
-
-### KNOWLEDGE SYSTEMS
-
-- Second brain design
-- Personal knowledge management
-- File organization
-- Information systems
-- Project mapping
+<b>KNOWLEDGE SYSTEMS</b><br><br>
+Second brain design<br>
+Personal knowledge management<br>
+File organization<br>
+Information systems<br>
+Project mapping
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### CONSULTING SYSTEMS
+<b>CONSULTING SYSTEMS</b><br><br>
+Process design<br>
+Operational workflows<br>
+Client dashboards<br>
+Strategy systems<br>
+Scalable operations<br><br>
 
-- Process design
-- Operational workflows
-- Client dashboards
-- Strategy systems
-- Scalable operations
-
-### CREATOR SYSTEMS
-
-- Content workflows
-- Brand systems
-- Digital products
-- AI education
-- Community systems
+<b>CREATOR SYSTEMS</b><br><br>
+Content workflows<br>
+Brand systems<br>
+Digital products<br>
+AI education<br>
+Community systems
 
 </td>
 </tr>
@@ -124,11 +114,11 @@ Growth systems
 
 <div align="center">
 
-# TECH STACK
+## TECH STACK
 
 <img src="https://skillicons.dev/icons?i=python,github,vscode,figma,notion" />
 
-<br/><br/>
+<br><br>
 
 <img src="https://img.shields.io/badge/OpenAI-020617?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-7c3aed?style=flat-square&logoColor=white" />
@@ -144,13 +134,13 @@ Growth systems
 
 <div align="center">
 
-# GITHUB STATS
+## GITHUB STATS
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" />
 
-<br/><br/>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan1994&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" />
 
@@ -160,11 +150,11 @@ Growth systems
 
 <div align="center">
 
-# CONTRIBUTIONS
+## CONTRIBUTIONS
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
 
-<br/><br/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainkhan1994&bg_color=020617&color=e2e8f0&line=22d3ee&point=a78bfa&area=true&hide_border=true" />
 
@@ -172,35 +162,31 @@ Growth systems
 
 ---
 
-# CURRENT FOCUS
+## CURRENT FOCUS
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 01
-
+<b>01</b><br><br>
 Building AI systems
 
 </td>
 <td width="25%" align="center">
 
-### 02
-
+<b>02</b><br><br>
 Organizing knowledge and tools
 
 </td>
 <td width="25%" align="center">
 
-### 03
-
+<b>03</b><br><br>
 Creating automation workflows
 
 </td>
 <td width="25%" align="center">
 
-### 04
-
+<b>04</b><br><br>
 Growing consulting and content systems
 
 </td>
@@ -211,7 +197,7 @@ Growing consulting and content systems
 
 <div align="center">
 
-# CONNECT
+## CONNECT
 
 <a href="https://linkedin.com/in/zainkhan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -229,9 +215,8 @@ Growing consulting and content systems
   <img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:312e81,100:020617&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06b6d4,50:312e81,100:020617&section=footer" />
 
 </div>
-```

@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020617,35:0f172a,70:312e81,100:06b6d4&text=ZAIN%20KHAN&fontColor=e0f2fe&fontSize=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b1d2d,35:0a3d62,70:1b5e75,100:ff6b35&text=ZAIN%20KHAN&fontColor=ffd700&fontSize=38&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;Business+Consultant;Building+simple+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=ff6b35&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;Business+Consultant;Building+simple+systems+for+complex+problems" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20SYSTEMS-020617?style=flat-square&color=22d3ee" />
-<img src="https://img.shields.io/badge/CONSULTING-0f172a?style=flat-square&color=7c3aed" />
-<img src="https://img.shields.io/badge/AUTOMATION-111827?style=flat-square&color=0891b2" />
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-0a3d62?style=flat-square&color=ff6b35" />
+<img src="https://img.shields.io/badge/CONSULTING-0b1d2d?style=flat-square&color=ffd700" />
+<img src="https://img.shields.io/badge/AUTOMATION-1b5e75?style=flat-square&color=00d4ff" />
 
 </div>
 
@@ -120,13 +120,13 @@ Community systems
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OpenAI-020617?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-7c3aed?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-0f172a?style=flat-square&logo=google&logoColor=22d3ee" />
-<img src="https://img.shields.io/badge/Notion-111827?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Airtable-075985?style=flat-square&logo=airtable&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-581c87?style=flat-square" />
-<img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=fb923c" />
+<img src="https://img.shields.io/badge/OpenAI-0a3d62?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-ff6b35?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-0b1d2d?style=flat-square&logo=google&logoColor=ffd700" />
+<img src="https://img.shields.io/badge/Notion-1b5e75?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Airtable-00d4ff?style=flat-square&logo=airtable&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-0a3d62?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-ff6b35?style=flat-square&logo=n8n&logoColor=ffd700" />
 
 </div>
 
@@ -136,13 +136,13 @@ Community systems
 
 ## GITHUB STATS
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1d2d&title_color=ff6b35&icon_color=ffd700&text_color=00d4ff" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1d2d&title_color=ff6b35&text_color=00d4ff" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan1994&theme=tokyonight&hide_border=true&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkhan1994&theme=tokyonight&hide_border=true&background=0b1d2d&ring=ff6b35&fire=ffd700&currStreakLabel=ff6b35" />
 
 </div>
 
@@ -200,7 +200,7 @@ Growing consulting and content systems
 </a>
 
 <a href="https://x.com/zainkhan1994">
-  <img src="https://img.shields.io/badge/X-020617?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-0b1d2d?style=flat-square&logo=x&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/@zainkhan1994">
@@ -213,6 +213,6 @@ Growing consulting and content systems
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:06b6d4,50:312e81,100:020617&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00d4ff,50:1b5e75,100:0b1d2d&section=footer" />
 
 </div>

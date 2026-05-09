@@ -155,7 +155,7 @@ SIGNAL MAP
 
 # CONTRIBUTION MATRIX
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
 
 <br/><br/>
 

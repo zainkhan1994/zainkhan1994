@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;Business+Consultant;Building+simple+systems+for+work+and+life;Tools%2C+workflows%2C+automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1500&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+Systems+Builder;Business+Consultant;Building+simple+systems" />
 
 <br/><br/>
 
@@ -153,10 +153,6 @@ Community systems
 ## CONTRIBUTIONS
 
 <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainkhan1994&bg_color=020617&color=e2e8f0&line=22d3ee&point=a78bfa&area=true&hide_border=true" />
 
 </div>
 

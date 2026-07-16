@@ -133,10 +133,7 @@ Community systems
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=AI+Workflows;Knowledge+Systems;Automation;Digital+Infrastructure" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainkhan1994&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkhan1994&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</p>
+
 ---
 
 <div align="center">
